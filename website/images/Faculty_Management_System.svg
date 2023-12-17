@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-Faculty_Management_System">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Faculty_Management_System" clip-path="url(#clip-Faculty_Management_System)">
+    <g id="Group_21599" data-name="Group 21599" transform="translate(-416.079 -366.461)">
+      <path id="Path_19339" data-name="Path 19339" d="M451.478,414.7h2.766c0-10.586-10.267-10.108-10.267-10.108h-4.256c-10.852,0-9.842,10.108-9.842,10.108h21.6Z" transform="translate(-1.219 -2.116)" fill="none" stroke="#339" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Path_19340" data-name="Path 19340" d="M423.931,410.268h-6.816s-.438-6.856,6.338-6.856a21.318,21.318,0,0,1,4.584,0" transform="translate(0 -0.657)" fill="none" stroke="#339" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Path_19341" data-name="Path 19341" d="M430.542,387.766a4.9,4.9,0,0,0-4.744-1.316,4.419,4.419,0,0,0-2.711,4.824c.558,3.588,4.823,4.5,7.454,2.113" transform="translate(-1.906 2.229)" fill="none" stroke="#339" stroke-miterlimit="10" stroke-width="2.5"/>
+      <circle id="Ellipse_1167" data-name="Ellipse 1167" cx="6.543" cy="6.543" r="6.543" transform="translate(434.536 382.406)" fill="none" stroke="#339" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Path_19342" data-name="Path 19342" d="M458.117,410.3h6.849s.44-6.889-6.369-6.889a21.417,21.417,0,0,0-4.606,0" transform="translate(0.075 -0.602)" fill="none" stroke="#339" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Path_19343" data-name="Path 19343" d="M453.109,387.773a4.922,4.922,0,0,1,4.766-1.322A4.44,4.44,0,0,1,460.6,391.3c-.56,3.6-4.846,4.526-7.49,2.123" transform="translate(0.357 2.229)" fill="none" stroke="#339" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+    <path id="Path_19115" data-name="Path 19115" d="M26.588,20.613l3.761,3.862,7.013-7.064" transform="translate(-6.975 -13.53)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+  </g>
+</svg>

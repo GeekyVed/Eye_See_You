@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-Modern_Learning_Management_System_Software_for_Higher_Education">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Modern_Learning_Management_System_Software_for_Higher_Education" clip-path="url(#clip-Modern_Learning_Management_System_Software_for_Higher_Education)">
+    <g id="Learning" transform="translate(-6.306 -2.29)">
+      <path id="Path_18095" data-name="Path 18095" d="M55.012,3.6H14.834C10.7,3.6,7.7,5.912,7.7,9.092h0c0,3.179,3,5.492,7.134,5.492H55.012V51" transform="translate(0 0)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Path_18096" data-name="Path 18096" d="M54.578,49.31H14.854C10.712,49.31,7.7,47,7.7,43.819h0V7.4" transform="translate(0 1.692)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_635" data-name="Line 635" y2="36.419" transform="translate(17.275 14.583)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <path id="Path_18097" data-name="Path 18097" d="M30.761,25.992,20.5,32.785V19.2Z" transform="translate(11.402 6.8)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_1100" data-name="Line 1100" y2="36.419" transform="translate(51.484 9.092) rotate(90)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

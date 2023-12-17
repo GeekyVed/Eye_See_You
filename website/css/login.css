@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginForm{
+    width:min(450px, 95%);
+    height: 500px;
+    border: solid 1px blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:transparent;
+    border-radius: 10px;
+}
+
+.loginForm:hover{
+    box-shadow: 0 0 100px 0px rgb(121, 97, 239);
+    background-color: black;
+}
+
+.inputgroup{
+    position: relative; 
+    height: 50px;
+    width:100%;
+}
+
+.inputgroup input{
+    position: absolute;
+    width: 100%; 
+    height:45px;
+    background: transparent;
+    outline:none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px rgb(213, 125, 125);
+    border-top: none;
+    color: white;
+    transition: all 200ms;
+    font-size: 20px;   
+}
+
+#txtusername{
+    padding-left: 10px;
+}
+
+.inputgroup label{
+    position: absolute;
+    transition: all 200ms;
+    color: rgb(219, 90, 90);
+    padding-left: 10px;
+}
+
+.inputgroup input:hover +label,
+.inputgroup input:focus +label,
+.inputgroup input:valid +label{
+    transform: translateY(-10px);
+    color: rgb(0, 85, 255);
+}
+
+.inputgroup input:hover ,
+.inputgroup input:focus ,
+.inputgroup input:valid {
+    border-bottom: solid 1px rgb(0, 85, 255);
+}
+
+.topmargin{ 
+    margin-top: 50px;
+}
+
+.topmarginlarge{ 
+    margin-top: 80px;
+}
+
+.divcallforaction{
+    width: 95%;
+    height: 45px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.btnlogin{
+    border: solid 1px blue;
+    width: 150px;
+    height: 45px;
+    padding: 5px;
+    border-radius: 5px;
+}

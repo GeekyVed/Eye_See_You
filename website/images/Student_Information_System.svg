@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-Student_Information_System">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Student_Information_System" clip-path="url(#clip-Student_Information_System)">
+    <g id="Group_21493" data-name="Group 21493" transform="translate(-15.101 -20.336)">
+      <path id="Path_19102" data-name="Path 19102" d="M16.529,77.407,19.15,65.051a5.78,5.78,0,0,1,5.654-4.58H38.785" transform="translate(0 -8.308)" fill="none" stroke="#339" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_19103" data-name="Path 19103" d="M30.471,19.667l12.174-4.843L55.08,19.929,42.514,25.034Z" transform="translate(-9.706 6.75)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <path id="Path_19104" data-name="Path 19104" d="M36.824,24.177V36.22s1.308,6.545,7.33,6.545,7.2-6.676,7.2-6.676V24.439" transform="translate(-11.347 4.335)" fill="none" stroke="#339" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+      <circle id="Ellipse_1133" data-name="Ellipse 1133" cx="10.986" cy="10.986" r="10.986" transform="translate(41.7 45.736)" fill="none" stroke="#339" stroke-linejoin="round" stroke-width="2.5"/>
+      <text id="i" transform="translate(50.334 62.149)" fill="#339" font-size="19" font-family="MyriadPro-Regular, Myriad Pro"><tspan x="0" y="0">i</tspan></text>
+    </g>
+  </g>
+</svg>
